@@ -1,7 +1,9 @@
 # T4-week10 - Aplikasi CRUD PHP MySQL
 
 Nama  : Andre Astamam
+
 NIM   : F1D02410103
+
 Kelas : Pemrograman Web C
 
 ## Deskripsi
@@ -11,7 +13,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL, dan Bootstr
 - Tabel     : buku (NIM Ganjil)
 
 ## Cara Menjalankan
-1. Import file .sql ke phpMyAdmin
+1. Import file .sql ke laragon/database/heidisql
 2. Letakkan folder project di www/ (Laragon)
 3. Buka browser ke http://localhost/T4-week10/
 
