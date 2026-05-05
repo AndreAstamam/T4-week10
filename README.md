@@ -7,8 +7,8 @@ Kelas : Pemrograman Web C
 ## Deskripsi
 Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL, dan Bootstrap.
 
-- Database  : perpustakaan_db / inventaris_db (sesuai NIM)
-- Tabel     : buku / barang (sesuai NIM)
+- Database  : perpustakaan_db (NIM Ganjil)
+- Tabel     : buku (NIM Ganjil)
 
 ## Cara Menjalankan
 1. Import file .sql ke phpMyAdmin
